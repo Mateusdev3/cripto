@@ -1,0 +1,37 @@
+.container{
+    color: #fff;
+    padding: 0 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.center{
+   text-align: center;
+}
+.content{
+    background-color: rgba(0, 0, 0, 0.425);
+    min-width: 420px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 20px 20px;
+    border-radius: 14px;
+    margin-top: 50px;   
+
+}
+.logo{
+    max-width: 60px;
+    max-height: 60px;
+    transition: all 1s;
+}
+.logo:hover{
+    transform: rotate(360deg);
+}
+.profit{
+    color: #12f98a;
+    font-weight: bold;
+}
+.loss{
+    color: #f91257;
+    font-weight: bold;
+}
