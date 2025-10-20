@@ -28,7 +28,7 @@ Aplicação web desenvolvida com **React**, **TypeScript** e **Vite** para exibi
 
 ✅ Interface responsiva (mobile e desktop)
 
-## Site referente ao curso: React Js com TypeScript do zero ao avançado na pratica
+## Site referente a prova pratica do curso: React Js com TypeScript 
 
 Acesse: https://cripto-mocha.vercel.app/
 
